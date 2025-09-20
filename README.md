@@ -23,12 +23,12 @@ pip install opencv-python numpy pyautogui pywin32
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/py-screen-recorder.git
-cd py-screen-recorder
+git clone https://github.com/swapnanil99/py_screen_recoder.git
+cd py_screen_recorder
 ```
 Run the script:
 ```bash
-python screen_recorder.py
+python py_screen_recorder.py
 ```
 💻 Example Usage
 - Enter the name of the file which you want to save : demo
